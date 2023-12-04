@@ -1,1 +1,1 @@
-#Simple clone of the mobile classic Snake
+# Simple clone of the mobile classic Snake
